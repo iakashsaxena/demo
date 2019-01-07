@@ -1,0 +1,29 @@
+ Volume in drive C is OS
+ Volume Serial Number is A12F-5D10
+
+ Directory of C:\Users\Sky
+
+07-01-2019  12:14    <DIR>          .
+07-01-2019  12:14    <DIR>          ..
+26-11-2018  23:03    <DIR>          .eclipse
+07-01-2019  12:01    <DIR>          .p2
+08-09-2018  16:55    <DIR>          .tooling
+04-12-2018  01:14    <DIR>          3D Objects
+04-12-2018  01:14    <DIR>          Contacts
+23-12-2018  00:52    <DIR>          Desktop
+22-12-2018  11:05    <DIR>          Documents
+05-01-2019  21:09    <DIR>          Downloads
+04-12-2018  02:37    <DIR>          eclipse
+04-12-2018  03:09    <DIR>          eclipse-workspace
+04-12-2018  01:14    <DIR>          Favorites
+09-03-2018  00:28         1,385,075 IMG_20180219_000556.jpg
+04-12-2018  01:14    <DIR>          Links
+15-12-2018  21:57    <DIR>          Music
+22-12-2018  11:14    <DIR>          OneDrive
+25-12-2018  21:20    <DIR>          Pictures
+04-12-2018  01:14    <DIR>          Saved Games
+04-12-2018  01:52    <DIR>          Searches
+07-01-2019  12:18                 0 Text1.txt
+04-12-2018  01:14    <DIR>          Videos
+               2 File(s)      1,385,075 bytes
+              20 Dir(s)  58,833,178,624 bytes free
